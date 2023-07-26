@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chatscape
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# AI-ChatBot
+>>>>>>> ec2637242d6c2f7b91a7cbcc5ab4ca011c66891c
